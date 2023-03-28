@@ -5,7 +5,6 @@ public class Paralelizacao implements Runnable{
 
     public void run() {
         try {
-
             System.out.println("Total de Linhas: " + ());
         } catch (Exception e) {
             e.getStackTrace();
