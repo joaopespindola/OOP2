@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c768399-7b23-415c-9046-9c6cc1a71c5e" name="Changes" comment="">
+    <list default="true" id="9cf195ac-8cd3-4144-aee3-294cff2b6366" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/POO2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
@@ -50,27 +50,29 @@
       <change afterPath="$PROJECT_DIR$/../LAB03/src/ToyotaFabrica.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LAB03/src/ToyotaMotor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LAB03/src/src.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LAB02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB02/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="ProjectId" id="2NQgJAqKKZPxbF5m7P0VVSJP1vy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2O3TmfgI4eFJeKhZfK5tGipQ5IB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,30 +82,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/joaop/OneDrive - Universidade Federal de Uberlândia/É O PROGRAMAS/Faculdade/POO2/LAB03",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
+    "last_opened_file_path": "C:/Users/joaop/OneDrive - Universidade Federal de Uberlândia/É O PROGRAMAS/Faculdade/POO2/LAB02",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\joaop\OneDrive - Universidade Federal de Uberlândia\É O PROGRAMAS\Faculdade\POO2" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c768399-7b23-415c-9046-9c6cc1a71c5e" name="Changes" comment="" />
-      <created>1679601649371</created>
+      <changelist id="9cf195ac-8cd3-4144-aee3-294cff2b6366" name="Changes" comment="" />
+      <created>1680788426255</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1679601649371</updated>
-      <workItem from="1679601649971" duration="46000" />
-      <workItem from="1679601704463" duration="22687000" />
-      <workItem from="1680788437411" duration="22000" />
+      <updated>1680788426255</updated>
+      <workItem from="1680788427416" duration="9000" />
     </task>
     <servers />
   </component>
